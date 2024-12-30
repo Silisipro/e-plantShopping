@@ -97,6 +97,12 @@ body {
     height: 200px; /* Adjust height for better consistency */
 }
 
+.product-description {
+    font-size: 14px;
+    color: #757575;
+    margin-bottom: 16px;
+  }
+
 .product-button {
     background-color: #e74c3c;
     color: #fff;
